@@ -6,7 +6,7 @@ I build AI systems that move from understanding to action — and survive produc
 
 Over 13+ years, I’ve worked across omnichannel retail infrastructure at Omuni, commerce at scale at Walmart Labs, high-scale systems at Coinbase, and now product, AI and engineering as Co-founder & CTO of Briskk.
 
-At Briskk, I lead the architecture and engineering of a vertical AI revenue-execution platform for high-ticket retail, deployed across multiple brands and 20+ stores and handling thousands of customer conversations.
+At Briskk, I lead the architecture and engineering of a vertical AI revenue-execution platform for high-ticket retail, deployed with multiple retail brands representing a 40+ store footprint and handling thousands of customer conversations.
 
 ## What I work on
 
@@ -21,7 +21,7 @@ At Briskk, I lead the architecture and engineering of a vertical AI revenue-exec
 
 **Python · FastAPI · Elixir · Phoenix · PostgreSQL · pgvector · Redis · AWS · OpenTelemetry · Grafana**
 
-Integrations across **WhatsApp Business, Shopify, Zoho CRM, ERPNext, Salesforce and Freshsales/Freshworks**.
+Integrations across **WhatsApp Business, Shopify, Zoho CRM and ERPNext**, with **Salesforce and Freshsales/Freshworks adapters**.
 
 ## Selected public proof
 
