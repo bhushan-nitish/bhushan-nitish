@@ -1,6 +1,6 @@
 # Nitish Bhushan
 
-**Co-founder & CTO @ [Briskk](https://briskk.ai) · Production AI Agents · Revenue Execution · ex-Coinbase & Walmart Labs**
+**Co-founder & CTO @ [Briskk](https://briskk.ai) · Full-stack + Applied AI Engineer · Architect · ex-Coinbase & Walmart Labs**
 
 I build AI systems that move from understanding to action — and survive production.
 
@@ -19,7 +19,7 @@ At Briskk, I lead the architecture and engineering of a vertical AI revenue-exec
 
 ## Stack
 
-**Python · FastAPI · Elixir · Phoenix · PostgreSQL · pgvector · Redis · AWS · OpenTelemetry · Grafana**
+**TypeScript · Node · React · Python · FastAPI · Elixir · Phoenix · PostgreSQL · pgvector · MongoDB · Redis · AWS · OpenTelemetry · Grafana**
 
 Integrations across **WhatsApp Business, Shopify, Zoho CRM and ERPNext**, with **Salesforce and Freshsales/Freshworks adapters**.
 
